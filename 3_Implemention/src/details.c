@@ -25,6 +25,5 @@ void details(void)
 	printf("                       *********************************************************************************************\n");
 	
 	printf("Press Any To The MainMenu.");
-	if(getch())
 	customer();
 }
